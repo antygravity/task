@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">task</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_map">Map</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="place_image">Image</string>
+    <string name="my_location">My location</string>
+    <string name="distance">Distance:</string>
+    <string name="alert_title_location">Location Services Not Active</string>
+    <string name="alert_message_location">Please enable Location Services and GPS</string>
+    <string name="alert_title_internet">Internet connection Not Active</string>
+    <string name="alert_message_internet">Please enable internet connection</string>
+    <string name="toast_google_maps">Sorry! Unable to create maps</string>
+</resources>
